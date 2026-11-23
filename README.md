@@ -1,4 +1,3 @@
-# GSM Based Digital Notice Display with Emergency Alert using LPC2129
 
 ## 1. Project Overview
 
