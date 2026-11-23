@@ -1,4 +1,3 @@
-
 ## 1. Project Overview
 
 The GSM Based Digital Notice Display with Emergency Alert is an embedded systems project developed using the ARM7 LPC2129 microcontroller and SIM800C GSM module.
